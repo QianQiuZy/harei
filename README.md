@@ -8,7 +8,7 @@
 
 后端：无框架python，使用数据库存储提问箱和歌单
 
-API引用（如有侵权请联系删除）：api.vtbs.moe（用于获取直播间开播状态）
+第三方API引用：api.live.bilibili.com/room/v1/Room/get_info （用于获取直播间开播状态）
 
 ## 招人门槛
 
